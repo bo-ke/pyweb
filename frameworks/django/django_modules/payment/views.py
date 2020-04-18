@@ -11,8 +11,8 @@
 """
 from django.http import HttpResponse
 from .models import MemberPurchaseInfo
-from django_modules.payment.paylib.alipayapi import AliPayDoWebPay, verify_notice_sign
-from django_modules.payment.paylib.wepayapi import WePayDoPay
+from frameworks.django.django_modules.payment.paylib.alipayapi import AliPayDoWebPay, verify_notice_sign
+from frameworks.django.django_modules.payment.paylib.wepayapi import WePayDoPay
 from xml.etree.ElementTree import XML
 
 
