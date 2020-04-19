@@ -1,9 +1,10 @@
-# web 服务
+# web tools
 
 ## 包含内容
 1、个人网站  
-2、django可复用模块  
-2、常用web工具
+2、常用几个web frameworks  
+3、常用web工具  
+4、各种小脚本、小工具
 
 
 ### django可复用模块

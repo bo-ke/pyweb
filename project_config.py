@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: SpongeBob
+@author: kebo
 @contact: itachi971009@gmail.com
 @version: 1.0
 @file: project_config.py
